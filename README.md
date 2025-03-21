@@ -1,1 +1,1 @@
-This file contains a meta class for python, for creating simple classes.
+This folder contains some of my projects.
