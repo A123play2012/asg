@@ -92,10 +92,3 @@ class asg(type):
         self.__lt__ = __lt__
         #self.__len__ = __len__
         self.object2 = object2
-
-'''
-from asg import asg
-from clear import clear
-
-stg = asg('stg', (), {'object1':'<>'})
-'''
